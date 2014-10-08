@@ -11,5 +11,8 @@
           "js": [ "hyphenator.js", "wikipedia-beautifier.js" ],
           "run_at": "document_end"
       }
+  ],
+  "web_accessible_resources": [
+    "wikipedia-beautifier.css"
   ]
 }

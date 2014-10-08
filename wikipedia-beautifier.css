@@ -65,3 +65,8 @@
 pre {
     overflow: auto;
 }
+
+.mw-content-ltr ol, .mw-content-rtl .mw-content-ltr ol,
+.mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul {
+    margin-left: 0;
+}
